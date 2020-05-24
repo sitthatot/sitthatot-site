@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+a {
+  font-weight: bold;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.producer {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 70px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%
+}
+
+.dj-skill {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.graphic-skill {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.teorex-pic {
+  border-radius: 50%;
+  width: 13%;
+}
+
+.myButton {
+  margin: 2rem;
+  box-shadow: 0px 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  background-color: #599bb3;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #3d768a;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #EAF6F6;
+  padding: 20px 0px;
+}
+
+hr {
+  margin: 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #EAF6F6;
+  width: 4%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
